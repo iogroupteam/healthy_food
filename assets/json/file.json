@@ -1,0 +1,265 @@
+[
+    {
+        "name": "Chinese chicken curry",
+        "main_pic": "assets/1/1.jpg",
+        "prepare": "Some might get surprised to hear Chinese and curry as curry is not so Chinese cuisine. But there is a Chinese version of curry and it's one of the very popular dishes in Chinese takeout and restaurants, in the UK and United States.This Western-style Chinese curry sauce is very similar to Japanese curry roux and thicker, milder, and sweeter than Indian curries. This curry sauce base is seasoned with curry powder, turmeric, Chinese five spices. Corn starch and plain flour are added to thicken the gravy. While, Indian curry pastes are made basically made from onions, tomatoes, and cream.",
+        "material": [
+            "Chicken breast",
+            "Sweet onion",
+            "pepper",
+            "Green peas"
+        ],
+        "material_pics": [
+            "assets/1/1.1.jpg",
+            "assets/1/1.2.jpg",
+            "assets/1/1.3.jpg",
+            "assets/1/1.4.jpg"
+        ],
+        "time": 30,
+        "Nutritional_value": [
+            {
+                "Calories": "498kcal",
+                "Carbohydrates": "30g",
+                "Protein": "46g",
+                "Fat": "22g"
+            }
+        ]
+    },
+    {
+        "name": "Chicken Hong Kong Style",
+        "main_pic": "assets/2/2.jpg",
+        "prepare": "Britain loves its Chinese food. The first Chinese restaurants opened in the United Kingdom in the 1880s. Chinese cuisine quickly became popular. One dish that has surged in prominence is sweet and sour chicken Hong Kong style. You can find it on the menu of every Chinese takeaway and restaurant in the UK.Plenty of people order it from different restaurants. Yet few people know how to make it. In this recipe, I will show you how to make better than takeout sweet and sour chicken with simple instructions and answering all questions that you need to know.",
+        "material": [
+            "Chicken breast",
+            "Vegetable oil",
+            "cloves Garlic",
+            "Pineapple chunks"
+        ],
+        "material_pics": [
+            "assets/2/2.1.jpg",
+            "assets/2/2.2.jpg",
+            "assets/2/2.3.jpg",
+            "assets/2/2.4.jpg",
+            "assets/2/2.5.jpg"
+        ],
+        "time": 30,
+        "Nutritional_value": [
+            {
+                "Calories": "423kcal",
+                "Carbohydrates": "68g",
+                "Protein": "25g",
+                "Fat": "5g"
+            }
+        ]
+    },
+    {
+        "name": "Satay Chicken Curry",
+        "main_pic": "assets/8/8.jpg",
+        "prepare": "This Satay Chicken Curry recipe is one of the easiest and tastiest curry recipes on this blog. It's a Malaysian style creamy chicken curry with well-marinaded chicken thigh, peanut butter and coconut milk. Incredibly delicious!",
+        "material": [
+            "Chicken thigh",
+            "Coconut milk",
+            "Curry powder",
+            "Turmeric"
+        ],
+        "material_pics": [
+            "assets/8/8.1.jpg",
+            "assets/8/8.2.jpg",
+            "assets/8/8.3.jpg",
+            "assets/8/8.4.jpg",
+            "assets/8/8.5.jpg"
+        ],
+        "time": 90,
+        "Nutritional_value": [
+            {
+                "Calories": "588kcal",
+                "Carbohydrates": "15g",
+                "Protein": "26g",
+                "Fat": "49g"
+            }
+        ]
+    },
+    {
+        "name": "Easy Chicken Tempura",
+        "main_pic": "assets/9/9.jpg",
+        "prepare": "Easy Crispy Japanese Chicken Tempura with chicken breast and homemade tempura batter. Made with simple pantry-friendly ingredients and anyone can make at home. Serve with a delicious soy sauce dipping sauce. Incredibly delicious!",
+        "material": [
+            "Chicken breast",
+            "Ginger",
+            "Garlic",
+            "Corn starch"
+        ],
+        "material_pics": [
+            "assets/9/9.1.jpg",
+            "assets/9/9.2.jpg",
+            "assets/9/9.3.jpg",
+            "assets/9/9.4.jpg"
+        ],
+        "time": 30,
+        "Nutritional_value": [
+            {
+                "Calories": "275kcal",
+                "Carbohydrates": "40g",
+                "Protein": "20g",
+                "Fat": "3g"
+            }
+        ]
+    },
+    {
+        "name": "Mushroom Pasta",
+        "main_pic": "assets/10/10.jpg",
+        "prepare": "Quick and easy creamy mushroom pasta recipe made with portobello mushrooms, spaghetti and flavourful creamy sauce. One of the best mushroom pasta recipes that whole family will love! Everything comes together in 15 minutes and super delicious!",
+        "material": [
+            "Spaghetti",
+            "Portobello mushroom",
+            "Double cream",
+            "Unsalted butter"
+        ],
+        "material_pics": [
+            "assets/10/10.1.jpg",
+            "assets/10/10.2.jpg",
+            "assets/10/10.3.jpg",
+            "assets/10/10.4.jpg"
+        ],
+        "time": 15,
+        "Nutritional_value": [
+            {
+                "Calories": "828kcal",
+                "Carbohydrates": "68g",
+                "Protein": "20g",
+                "Fat": "54g"
+            }
+        ]
+    },
+    {
+        "name": "Spicy Chicken Pasta",
+        "main_pic": "assets/3/3.jpg",
+        "prepare": "This Spicy Chicken Pasta recipe is packed with flavour and the best pasta ready in 30 minutes! Need a fast and delicious family meal recipe? Try this easy Chicken Pasta made with simple cupboard-friendly ingredients. Anyone can simply make it at home.",
+        "material": [
+            "Chicken breast",
+            "Salt",
+            "Black pepper",
+            "Brown onion"
+        ],
+        "material_pics": [
+            "assets/3/3.1.jpg",
+            "assets/3/3.2.jpg",
+            "assets/3/3.3.jpg",
+            "assets/3/3.4.jpg"
+        ],
+        "time": 25,
+        "Nutritional_value": [
+            {
+                "Calories": "712kcal",
+                "Carbohydrates": "79g",
+                "Protein": "49g",
+                "Fat": "23g"
+            }
+        ]
+    },
+    {
+        "name": "Chilli Chicken",
+        "main_pic": "assets/4/4.jpg",
+        "prepare": "Lightly battered crispy salt and pepper chicken with a chilli twist. These crispy bites are fantastic as a savoury snack or serve over rice as a delicious meal. Especially great with a Chinese tea or a can of cold drink. You can find salt and chilli chicken in all most all Chinese restaurants and takeout in UK. Its usually serve over a stir fry noodle or a steamed rice.",
+        "material": [
+            "Boneless chicken thigh",
+            "Corn starch",
+            "Sweet onion",
+            "red chillies"
+        ],
+        "material_pics": [
+            "assets/4/4.1.jpg",
+            "assets/4/4.2.jpg",
+            "assets/4/4.3.jpg",
+            "assets/4/4.4.jpg"
+        ],
+        "time": 35,
+        "Nutritional_value": [
+            {
+                "Calories": "513kcal",
+                "Carbohydrates": "50g",
+                "Protein": "33g",
+                "Fat": "14g"
+            }
+        ]
+    },
+    {
+        "name": "King Prawn Chow Mein",
+        "main_pic": "assets/5/5.jpg",
+        "prepare": "Easy King Prawn Chow Mein recipe made with king prawns, egg noodles, loads of vegetables, and quick chow mein sauce. The best homemade prawn noodle stir fry everyone will love! Ready in 20 minutes and incredibly delicious!",
+        "material": [
+            "Prawns",
+            "Shao Xing wine",
+            "Black pepper",
+            "Egg noodles"
+        ],
+        "material_pics": [
+            "assets/5/5.1.jpg",
+            "assets/5/5.2.jpg",
+            "assets/5/5.3.jpg",
+            "assets/5/5.4.jpg"
+        ],
+        "time": 20,
+        "Nutritional_value": [
+            {
+                "Calories": "555kcal",
+                "Carbohydrates": "90g",
+                "Protein": "35g",
+                "Fat": "7g"
+            }
+        ]
+    },
+    {
+        "name": "Crispy Shredded Chicken",
+        "main_pic": "assets/6/6.jpg",
+        "prepare": "Crispy fried shredded chicken and crunchy vegetables tossed with very light sweet, sour and savoury seasoning sauce. This dish is very quick and easy to make at home. If you like spicy, you can add a bit of chilli oil in the stir fry sauce. Serve with steamed rice or stir fry noodles or fried rice would go well with this dish. You can add some green stir fry dish on the side too.",
+        "material": [
+            "Boneless chicken",
+            "Egg",
+            "Corn/potato flour",
+            "Light soy sauce"
+        ],
+        "material_pics": [
+            "assets/6/6.1.jpg",
+            "assets/6/6.2.jpg",
+            "assets/6/6.3.jpg",
+            "assets/6/6.4.jpg"
+        ],
+        "time": 50,
+        "Nutritional_value": [
+            {
+                "Calories": "490kcal",
+                "Carbohydrates": "76g",
+                "Protein": "48g",
+                "Fat": "18g"
+            }
+        ]
+    },
+    {
+        "name": "Pepper Chips",
+        "main_pic": "assets/7/7.jpg",
+        "prepare": "UK Takeaway-Style Chinese Salt and Pepper Chips recipe - potato chips fried to perfection and tossed with aromatic salt and pepper powder mix. Made with simple ingredients and incredibly easy to make at home.",
+        "material": [
+            "Chips",
+            "Crushed chilli flakes",
+            "White pepper powder",
+            "Onion"
+        ],
+        "material_pics": [
+            "assets/7/7.1.jpg",
+            "assets/7/7.2.jpg",
+            "assets/7/7.3.jpg",
+            "assets/7/7.4.jpg"
+        ],
+        "time": 20,
+        "Nutritional_value": [
+            {
+                "Calories": "425kcal",
+                "Carbohydrates": "53g",
+                "Protein": "6g",
+                "Fat": "23g"
+            }
+        ]
+    }
+   
+]
